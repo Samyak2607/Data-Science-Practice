@@ -1,0 +1,833 @@
+id,date,home,city,beds,confirmed_resident_cases,resident_deaths,confirmed_staff_cases,phu
+617,2020-05-01,Almonte Country Haven,Almonte,82,44,25,25,"Leeds, Grenville and Lanark District Health Unit"
+618,2020-05-01,Altamont Care Community,Scarborough,159,76,41,41,City of Toronto Health Unit
+619,2020-05-01,Anson Place Care Centre,Hagersville,61,28,23,23,Haldimand-Norfolk Health Unit
+620,2020-05-01,Bay Ridges,Pickering,124,0,0,0,Durham Regional Health Unit
+621,2020-05-01,Belmont House,Toronto,140,0,0,0,City of Toronto Health Unit
+622,2020-05-01,Belmont Long Term Care Facility,Belleville,128,12,0,0,Hastings and Prince Edward Counties Health Unit
+623,2020-05-01,Bendale Acres,Scarborough,302,0,0,0,City of Toronto Health Unit
+624,2020-05-01,Bethany Lodge,Markham,128,5,5,5,York Regional Health Unit
+625,2020-05-01,Blue Water Rest Home,Zurich,65,5,0,0,Huron Perth Health Unit
+626,2020-05-01,Bradford Valley Care Community,Bradford,246,10,8,8,Simcoe Muskoka District Health Unit
+627,2020-05-01,Brucelea Haven Long Term Care Home - Corporation of the County of Bruce,Walkerton,144,0,0,0,
+628,2020-05-01,Burton Manor,Brampton,128,24,5,5,Peel Regional Health Unit
+629,2020-05-01,Camilla Care Community,Mississauga,236,121,21,21,Peel Regional Health Unit
+630,2020-05-01,Caressant Care Courtland,Courtland,55,0,0,0,Haldimand-Norfolk Health Unit
+631,2020-05-01,Caressant Care Fergus Nursing Home,Fergus,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+632,2020-05-01,Caressant Care on Bonnie Place,St Thomas,116,0,0,0,Southwestern Public Health Unit
+633,2020-05-01,Carlingview Manor,Ottawa,303,119,12,12,Ottawa Public Health
+634,2020-05-01,Case Manor Care Community,Bobcaygeon,96,6,0,0,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+635,2020-05-01,Castleview Wychwood Towers,Toronto,456,0,0,0,City of Toronto Health Unit
+636,2020-05-01,Cedarvale Terrace,Toronto,218,0,0,0,City of Toronto Health Unit
+637,2020-05-01,Centre d'Accueil Roger Seguin,Clarence Creek,113,0,0,0,"Leeds, Grenville and Lanark District Health Unit"
+638,2020-05-01,Chartwell Aurora Long Term Care Residence,Aurora,235,32,6,6,York Regional Health Unit
+639,2020-05-01,Chartwell Ballycliffe Long Term Care Residence,Ajax,100,34,27,27,Durham Regional Health Unit
+640,2020-05-01,Chartwell Elmira Long Term Care Residence,Elmira,48,5,0,0,
+641,2020-05-01,Chartwell Gibson Long Term Care Residence,North York,202,31,9,9,City of Toronto Health Unit
+642,2020-05-01,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,0,0,0,York Regional Health Unit
+643,2020-05-01,Chartwell Waterford Long Term Care Residence,Oakville,168,0,0,0,Halton Regional Health Unit
+644,2020-05-01,Chartwell Westbury Long Term Care Residence,Etobicoke,187,54,13,13,City of Toronto Health Unit
+645,2020-05-01,Chartwell White Eagle Long Term Care Residence,Toronto,56,18,11,11,City of Toronto Health Unit
+646,2020-05-01,Chartwell Woodhaven Long Term Care Residence,Markham,192,5,0,0,York Regional Health Unit
+647,2020-05-01,Cooksville Care Centre,Mississauga,192,16,0,0,Peel Regional Health Unit
+648,2020-05-01,Copernicus Lodge,Toronto,228,0,0,0,City of Toronto Health Unit
+649,2020-05-01,Country Village Homes - Woodslee,Woodslee,104,10,18,18,Windsor-Essex County Health Unit
+650,2020-05-01,Craiglee Nursing Home,Scarborough,169,5,0,0,City of Toronto Health Unit
+651,2020-05-01,Cummer Lodge,North York,391,5,5,5,City of Toronto Health Unit
+652,2020-05-01,Dom Lipa,Etobicoke,66,5,0,0,City of Toronto Health Unit
+653,2020-05-01,Downsview Long Term Care Centre,North York,252,44,6,6,City of Toronto Health Unit
+654,2020-05-01,Dufferin Oaks,Shelburne,160,5,5,5,Wellington-Dufferin-Guelph Health Unit
+655,2020-05-01,Dundurn Place Care Centre,Hamilton,201,5,5,5,City of Hamilton Health Unit
+656,2020-05-01,Eagle Terrace,Newmarket,70,5,5,5,York Regional Health Unit
+657,2020-05-01,Earls Court Village,London,128,9,5,5,Middlesex-London Health Unit
+658,2020-05-01,Eatonville Care Centre,Etobicoke,247,143,39,39,City of Toronto Health Unit
+659,2020-05-01,Élisabeth-Bruyère Residence,Ottawa,71,6,5,5,Ottawa Public Health
+660,2020-05-01,Elm Grove Living Centre,Toronto,126,44,12,12,City of Toronto Health Unit
+661,2020-05-01,Elmwood Place,London,90,5,0,0,Middlesex-London Health Unit
+662,2020-05-01,Erin Mills Lodge Nursing Home,Mississauga,86,5,5,5,Peel Regional Health Unit
+663,2020-05-01,Extendicare Bayview,North York,205,62,7,7,City of Toronto Health Unit
+664,2020-05-01,Extendicare Brampton,Brampton,150,13,5,5,Peel Regional Health Unit
+665,2020-05-01,Extendicare Guildwood,Scarborough,169,5,0,0,City of Toronto Health Unit
+666,2020-05-01,Extendicare Lakefield,Lakefield,100,0,0,0,Peterborough County-City Health Unit
+667,2020-05-01,Extendicare Laurier Manor,Gloucester,242,36,12,12,City of Ottawa Health Unit
+668,2020-05-01,Extendicare Rouge Valley,Toronto,192,0,0,0,City of Toronto Health Unit
+669,2020-05-01,Extendicare Scarborough,Scarborough,154,5,5,5,City of Toronto Health Unit
+670,2020-05-01,Extendicare Southwood Lakes,Windsor,150,0,0,0,Windsor-Essex County Health Unit
+671,2020-05-01,Extendicare Starwood,Nepean,192,0,0,0,City of Ottawa Health Unit
+672,2020-05-01,Extendicare York,Sudbury,288,0,0,0,Sudbury and District Health Unit
+673,2020-05-01,Faith Manor Nursing Home,Brampton,120,5,0,0,Peel Regional Health Unit
+674,2020-05-01,Forest Heights,Kitchener,240,146,35,35,Waterloo Health Unit
+675,2020-05-01,Fountain View Care Community,East York,158,0,0,0,City of Toronto Health Unit
+676,2020-05-01,Franklin Gardens Long Term Care Home,Leamington,120,5,0,0,Windsor-Essex County Health Unit
+677,2020-05-01,Garden Terrace,Kanata,160,0,0,0,City of Ottawa Health Unit
+678,2020-05-01,Gardenview Long Term Care Home,Townsend,64,0,0,0,Haldimand-Norfolk Health Unit
+679,2020-05-01,Garry J. Armstrong Home,Ottawa,180,0,0,0,Ottawa Public Health
+680,2020-05-01,Grace Manor,Brampton,120,46,5,5,Peel Regional Health Unit
+681,2020-05-01,Grace Villa Nursing Home,Hamilton,184,0,0,0,City of Hamilton Health Unit
+682,2020-05-01,Greenwood Court,Stratford,45,0,5,5,Huron Perth Health Unit
+683,2020-05-01,Hampton Terrace Care Centre,Burlington,101,0,0,0,Halton Regional Health Unit
+684,2020-05-01,Harold and Grace Baker Centre,Toronto,120,40,10,10,City of Toronto Health Unit
+685,2020-05-01,Hastings Manor Home for the Aged,Belleville,253,8,5,5,Hastings and Prince Edward Counties Health Unit
+686,2020-05-01,Hawthorne Place Care Centre,North York,269,47,9,9,City of Toronto Health Unit
+687,2020-05-01,Hellenic Home - Scarborough,Scarborough,128,34,9,9,City of Toronto Health Unit
+688,2020-05-01,Henley Place,London,192,5,0,0,Middlesex-London Health Unit
+689,2020-05-01,Heron Terrace Long Term Care Community,Windsor,140,38,12,12,Windsor-Essex County Health Unit
+690,2020-05-01,Hillsdale Terraces,Oshawa,200,29,13,13,Durham Regional Health Unit
+691,2020-05-01,Humber Valley Terrace,Etobicoke (Rexdale),158,6,0,0,City of Toronto Health Unit
+692,2020-05-01,Ina Grafton Gage Home,Scarborough,128,25,12,12,City of Toronto Health Unit
+693,2020-05-01,IOOF Seniors Home,Barrie,182,0,0,0,Simcoe Muskoka District Health Unit
+694,2020-05-01,Isabel and Arthur Meighen Manor,Toronto,168,77,30,30,City of Toronto Health Unit
+695,2020-05-01,Kensington Village,London,78,5,5,5,Middlesex-London Health Unit
+696,2020-05-01,Kipling Acres,Etobicoke,337,36,11,11,City of Toronto Health Unit
+697,2020-05-01,Kristus Darzs Latvian Home,Woodbridge,100,11,5,5,York Regional Health Unit
+698,2020-05-01,Labdara Lithuanian Nursing Home,Etobicoke,90,0,0,0,City of Toronto Health Unit
+699,2020-05-01,Lakeshore Lodge,Etobicoke,150,40,9,9,City of Toronto Health Unit
+700,2020-05-01,Lanark Heights Long Term Care Centre,Kitchener,160,6,5,5,Waterloo Health Unit
+701,2020-05-01,Mackenzie Health Long Term Care Facility,Richmond Hill,168,47,8,8,York Regional Health Unit
+702,2020-05-01,MacKenzie Place,Newmarket,93,47,6,6,York Regional Health Unit
+703,2020-05-01,Madonna Care Community,Orleans,160,53,22,22,City of Ottawa Health Unit
+704,2020-05-01,Main Street Terrace,Toronto,150,5,0,0,City of Toronto Health Unit
+705,2020-05-01,Malton Village Long Term Care Centre,Mississauga,160,5,0,0,Peel Regional Health Unit
+706,2020-05-01,Manoir Marochel,Ottawa,64,29,6,6,Ottawa Public Health
+707,2020-05-01,Maple View,Owen Sound,29,5,0,0,Grey Bruce Health Unit
+708,2020-05-01,Markhaven,Markham,96,8,16,16,York Regional Health Unit
+709,2020-05-01,Maynard Nursing Home,Toronto,77,5,0,0,City of Toronto Health Unit
+710,2020-05-01,McCall Centre Long Term Care Interim Unit,Etobicoke,21,0,0,0,City of Toronto Health Unit
+711,2020-05-01,Meadow Park (London),London,126,6,0,0,Middlesex-London Health Unit
+712,2020-05-01,Midland Gardens Care Community,Scarborough,299,5,5,5,City of Toronto Health Unit
+713,2020-05-01,Moira Place Long-Term Care Home,Tweed,128,0,0,0,Hastings and Prince Edward Counties Health Unit
+714,2020-05-01,Mon Sheong Home for the Aged,Toronto,105,23,29,29,City of Toronto Health Unit
+715,2020-05-01,Montfort,Ottawa,128,54,19,19,Ottawa Public Health
+716,2020-05-01,Northridge,Oakville,133,5,0,0,Halton Regional Health Unit
+717,2020-05-01,Northview Nursing Home,Englehart,48,5,0,0,
+718,2020-05-01,Norwood Nursing Home,Toronto,60,5,0,0,City of Toronto Health Unit
+719,2020-05-01,Orchard Villa,Pickering,233,144,53,53,Durham Regional Health Unit
+720,2020-05-01,Owen Hill Care Community,Barrie,57,7,0,0,Simcoe Muskoka District Health Unit
+721,2020-05-01,Peel Manor,Brampton,177,7,5,5,Peel Regional Health Unit
+722,2020-05-01,peopleCare A.R. Goudie Kitchener,Kitchener,80,16,5,5,Waterloo Health Unit
+723,2020-05-01,Peter D. Clark Centre,Ottawa,216,0,0,0,Ottawa Public Health
+724,2020-05-01,Pinecrest (Plantagenet),Plantagenet,60,8,0,0,Eastern Ontario Health Unit
+725,2020-05-01,Pinecrest Nursing Home (Bobcaygeon),Bobcaygeon,65,33,29,29,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+726,2020-05-01,Pinehaven Nursing Home,Waterloo,84,0,0,0,Waterloo Health Unit
+727,2020-05-01,Pioneer Manor,Sudbury,433,5,0,0,Sudbury and District Health Unit
+728,2020-05-01,Post Inn Village,Oakville,228,5,0,0,Halton Regional Health Unit
+729,2020-05-01,Providence Healthcare,Scarborough,288,13,5,5,City of Toronto Health Unit
+730,2020-05-01,ReachView Village,Uxbridge,100,5,5,5,Durham Regional Health Unit
+731,2020-05-01,Residence Saint-Louis,Ottawa,198,11,5,5,Ottawa Public Health
+732,2020-05-01,River Glen Haven Nursing Home,Sutton West,119,8,0,0,
+733,2020-05-01,Royal Rose Place,Welland,96,29,13,13,Niagara Regional Area Health Unit
+734,2020-05-01,Royal Terrace,Palmerston,67,5,0,0,Wellington-Dufferin-Guelph Health Unit
+735,2020-05-01,Seven Oaks,Scarborough,249,55,37,37,City of Toronto Health Unit
+736,2020-05-01,Shelburne Long Term Care Home,Shelburne,60,17,5,5,Wellington-Dufferin-Guelph Health Unit
+737,2020-05-01,Shepherd Lodge,Toronto,252,5,0,0,City of Toronto Health Unit
+738,2020-05-01,Sherbourne Place,Toronto,126,46,16,16,City of Toronto Health Unit
+739,2020-05-01,Sheridan Villa,Mississauga,142,7,5,5,Peel Regional Health Unit
+740,2020-05-01,Silverthorn Care Community,Mississauga,160,0,0,0,Peel Regional Health Unit
+741,2020-05-01,Southlake Residential Care Village,Newmarket,224,0,0,0,York Regional Health Unit
+742,2020-05-01,St. Clair O'Connor Community Nursing Home,East York,25,5,8,8,City of Toronto Health Unit
+743,2020-05-01,St. George Care Community,Toronto,238,0,0,0,City of Toronto Health Unit
+744,2020-05-01,St. Joseph's at Fleming,Peterborough,200,10,0,0,Peterborough County-City Health Unit
+745,2020-05-01,St. Joseph's Lifecare Centre,Brantford,205,0,0,0,Brant County Health Unit
+746,2020-05-01,"St. Joseph's Villa, Dundas",Dundas,425,5,0,0,City of Hamilton Health Unit
+747,2020-05-01,"St. Joseph's Villa, Sudbury",Sudbury,128,5,0,0,Sudbury and District Health Unit
+748,2020-05-01,St. Patrick's Home,Ottawa,288,5,0,0,Ottawa Public Health
+749,2020-05-01,Stirling Heights,Cambridge,110,0,0,0,
+750,2020-05-01,Stoneridge Manor,Carleton Place,60,51,6,6,"Leeds, Grenville and Lanark District Health Unit"
+751,2020-05-01,Strathcona Long Term Care,Mount Forest,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+752,2020-05-01,Sumac Lodge,Sarnia,100,0,0,0,Lambton Health Unit
+753,2020-05-01,Sun Parlor Home for Senior Citizens,Leamington,206,5,5,5,Windsor-Essex County Health Unit
+754,2020-05-01,Tall Pines Long Term Care Centre,Brampton,160,5,0,0,Peel Regional Health Unit
+755,2020-05-01,Telfer Place,Paris,45,5,0,0,Brant County Health Unit
+756,2020-05-01,Temiskaming Lodge,Haileybury,83,5,0,0,
+757,2020-05-01,The Henley House,St. Catharines,160,0,0,0,Niagara Regional Area Health Unit
+758,2020-05-01,The Jewish Home for the Aged,North York,472,5,5,5,City of Toronto Health Unit
+759,2020-05-01,The Kensington Gardens,Toronto,350,16,6,6,City of Toronto Health Unit
+760,2020-05-01,The O'Neill Centre,Toronto,162,5,0,0,City of Toronto Health Unit
+761,2020-05-01,The Perley and Rideau Veterans' Health Centre,Ottawa,450,13,5,5,Ottawa Public Health
+762,2020-05-01,The Village at University Gates,Waterloo,192,0,0,0,Waterloo Health Unit
+763,2020-05-01,The Village of Erin Meadows,Mississauga,180,43,9,9,Peel Regional Health Unit
+764,2020-05-01,The Village of Humber Heights,Etobicoke,192,9,5,5,City of Toronto Health Unit
+765,2020-05-01,The Village of Riverside Glen,Guelph,192,0,0,0,Wellington-Dufferin-Guelph Health Unit
+766,2020-05-01,The Wexford,Scarborough,166,5,0,0,City of Toronto Health Unit
+767,2020-05-01,The Woodlands of Sunset,Welland,121,5,0,0,Niagara Regional Area Health Unit
+463,2020-04-28,Almonte Country Haven,Almonte,82,44,25,25,"Leeds, Grenville and Lanark District Health Unit"
+464,2020-04-28,Altamont Care Community,Scarborough,159,125,32,32,City of Toronto Health Unit
+465,2020-04-28,Anson Place Care Centre,Hagersville,61,28,23,23,Haldimand-Norfolk Health Unit
+466,2020-04-28,Bay Ridges,Pickering,124,0,0,0,Durham Regional Health Unit
+467,2020-04-28,Belmont House,Toronto,140,25,0,0,City of Toronto Health Unit
+468,2020-04-28,Bendale Acres,Scarborough,302,0,0,0,City of Toronto Health Unit
+469,2020-04-28,Bethany Lodge,Markham,128,5,5,5,York Regional Health Unit
+470,2020-04-28,Blue Water Rest Home,Zurich,65,5,0,0,Huron Perth Health Unit
+471,2020-04-28,Bradford Valley Care Community,Bradford,246,20,7,7,Simcoe Muskoka District Health Unit
+472,2020-04-28,Burton Manor,Brampton,128,24,5,5,Peel Regional Health Unit
+473,2020-04-28,Camilla Care Community,Mississauga,236,114,7,7,Peel Regional Health Unit
+474,2020-04-28,Caressant Care Courtland,Courtland,55,0,0,0,Haldimand-Norfolk Health Unit
+475,2020-04-28,Caressant Care Fergus Nursing Home,Fergus,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+476,2020-04-28,Caressant Care on Bonnie Place,St Thomas,116,0,0,0,Southwestern Public Health Unit
+477,2020-04-28,Carlingview Manor,Ottawa,303,32,5,5,Ottawa Public Health
+478,2020-04-28,Case Manor Care Community,Bobcaygeon,96,6,0,0,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+479,2020-04-28,Castleview Wychwood Towers,Toronto,456,0,0,0,City of Toronto Health Unit
+480,2020-04-28,Cedarvale Terrace,Toronto,218,0,0,0,City of Toronto Health Unit
+481,2020-04-28,Centre d'Accueil Roger Seguin,Clarence Creek,113,0,0,0,"Leeds, Grenville and Lanark District Health Unit"
+482,2020-04-28,Chartwell Aurora Long Term Care Residence,Aurora,235,26,5,5,York Regional Health Unit
+483,2020-04-28,Chartwell Ballycliffe Long Term Care Residence,Ajax,100,39,22,22,Durham Regional Health Unit
+484,2020-04-28,Chartwell Gibson Long Term Care Residence,North York,202,30,8,8,City of Toronto Health Unit
+485,2020-04-28,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,0,0,0,York Regional Health Unit
+486,2020-04-28,Chartwell Waterford Long Term Care Residence,Oakville,168,0,0,0,Halton Regional Health Unit
+487,2020-04-28,Chartwell Westbury Long Term Care Residence,Etobicoke,187,48,12,12,City of Toronto Health Unit
+488,2020-04-28,Chartwell White Eagle Long Term Care Residence,Toronto,56,18,11,11,City of Toronto Health Unit
+489,2020-04-28,Chartwell Woodhaven Long Term Care Residence,Markham,192,0,0,0,York Regional Health Unit
+490,2020-04-28,Cooksville Care Centre,Mississauga,192,16,0,0,Peel Regional Health Unit
+491,2020-04-28,Copernicus Lodge,Toronto,228,0,0,0,City of Toronto Health Unit
+492,2020-04-28,Country Village Homes - Woodslee,Woodslee,104,26,18,18,Windsor-Essex County Health Unit
+493,2020-04-28,Craiglee Nursing Home,Scarborough,169,5,0,0,City of Toronto Health Unit
+494,2020-04-28,Dom Lipa,Etobicoke,66,5,0,0,City of Toronto Health Unit
+495,2020-04-28,Downsview Long Term Care Centre,North York,252,42,5,5,City of Toronto Health Unit
+496,2020-04-28,Dufferin Oaks,Shelburne,160,5,5,5,Wellington-Dufferin-Guelph Health Unit
+497,2020-04-28,Dundurn Place Care Centre,Hamilton,201,5,5,5,City of Hamilton Health Unit
+498,2020-04-28,Eagle Terrace,Newmarket,70,5,5,5,York Regional Health Unit
+499,2020-04-28,Earls Court Village,London,128,5,5,5,Middlesex-London Health Unit
+500,2020-04-28,Eatonville Care Centre,Etobicoke,247,143,37,37,City of Toronto Health Unit
+501,2020-04-28,Élisabeth-Bruyère Residence,Ottawa,71,0,0,0,Ottawa Public Health
+502,2020-04-28,Elm Grove Living Centre,Toronto,126,29,12,12,City of Toronto Health Unit
+503,2020-04-28,Elmwood Place,London,90,5,0,0,Middlesex-London Health Unit
+504,2020-04-28,Erin Mills Lodge Nursing Home,Mississauga,86,5,5,5,Peel Regional Health Unit
+505,2020-04-28,Extendicare Bayview,North York,205,62,7,7,City of Toronto Health Unit
+506,2020-04-28,Extendicare Brampton,Brampton,150,6,0,0,Peel Regional Health Unit
+507,2020-04-28,Extendicare Guildwood,Scarborough,169,5,0,0,City of Toronto Health Unit
+508,2020-04-28,Extendicare Lakefield,Lakefield,100,0,0,0,Peterborough County-City Health Unit
+509,2020-04-28,Extendicare Laurier Manor,Gloucester,242,36,5,5,City of Ottawa Health Unit
+510,2020-04-28,Extendicare Rouge Valley,Toronto,192,0,0,0,City of Toronto Health Unit
+511,2020-04-28,Extendicare Scarborough,Scarborough,154,0,0,0,City of Toronto Health Unit
+512,2020-04-28,Extendicare Starwood,Nepean,192,0,0,0,City of Ottawa Health Unit
+513,2020-04-28,Fairview Lodge,Whitby,198,0,0,0,Durham Regional Health Unit
+514,2020-04-28,Faith Manor Nursing Home,Brampton,120,5,0,0,Peel Regional Health Unit
+515,2020-04-28,Forest Heights,Kitchener,240,134,31,31,Waterloo Health Unit
+516,2020-04-28,Garden Terrace,Kanata,160,0,0,0,City of Ottawa Health Unit
+517,2020-04-28,Gardenview Long Term Care Home,Townsend,64,0,0,0,Haldimand-Norfolk Health Unit
+518,2020-04-28,Garry J. Armstrong Home,Ottawa,180,0,0,0,Ottawa Public Health
+519,2020-04-28,Gateway Haven Long Term Care Home,Wiarton,100,0,0,0,Grey Bruce Health Unit
+520,2020-04-28,Grace Manor,Brampton,120,49,5,5,Peel Regional Health Unit
+521,2020-04-28,Greenwood Court,Stratford,45,5,5,5,Huron Perth Health Unit
+522,2020-04-28,Hampton Terrace Care Centre,Burlington,101,0,0,0,Halton Regional Health Unit
+523,2020-04-28,Harold and Grace Baker Centre,Toronto,120,23,10,10,City of Toronto Health Unit
+524,2020-04-28,Hastings Manor Home for the Aged,Belleville,253,10,0,0,Hastings and Prince Edward Counties Health Unit
+525,2020-04-28,Hawthorne Place Care Centre,North York,269,5,0,0,City of Toronto Health Unit
+526,2020-04-28,Hellenic Home - Scarborough,Scarborough,128,36,7,7,City of Toronto Health Unit
+527,2020-04-28,Henley Place,London,192,5,0,0,Middlesex-London Health Unit
+528,2020-04-28,Heritage Green Nursing Home,Stoney Creek,167,9,5,5,City of Hamilton Health Unit
+529,2020-04-28,Heron Terrace Long Term Care Community,Windsor,140,39,5,5,Windsor-Essex County Health Unit
+530,2020-04-28,Hillsdale Terraces,Oshawa,200,29,13,13,Durham Regional Health Unit
+531,2020-04-28,Humber Valley Terrace,Etobicoke (Rexdale),158,6,0,0,City of Toronto Health Unit
+532,2020-04-28,Ina Grafton Gage Home,Scarborough,128,26,11,11,City of Toronto Health Unit
+533,2020-04-28,IOOF Seniors Home,Barrie,182,0,0,0,Simcoe Muskoka District Health Unit
+534,2020-04-28,Isabel and Arthur Meighen Manor,Toronto,168,52,32,32,City of Toronto Health Unit
+535,2020-04-28,Kensington Village,London,78,5,5,5,Middlesex-London Health Unit
+536,2020-04-28,Kipling Acres,Etobicoke,337,36,11,11,City of Toronto Health Unit
+537,2020-04-28,Kristus Darzs Latvian Home,Woodbridge,100,11,5,5,York Regional Health Unit
+538,2020-04-28,Labdara Lithuanian Nursing Home,Etobicoke,90,0,0,0,City of Toronto Health Unit
+539,2020-04-28,Lakeshore Lodge,Etobicoke,150,40,9,9,City of Toronto Health Unit
+540,2020-04-28,Lambton Meadowview Villa,Petrolia,125,0,0,0,Lambton Public Health
+541,2020-04-28,Lanark Heights Long Term Care Centre,Kitchener,160,8,5,5,Waterloo Health Unit
+542,2020-04-28,Mackenzie Health Long Term Care Facility,Richmond Hill,168,0,0,0,York Regional Health Unit
+543,2020-04-28,MacKenzie Place,Newmarket,93,47,6,6,York Regional Health Unit
+544,2020-04-28,Madonna Care Community,Orleans,160,38,14,14,City of Ottawa Health Unit
+545,2020-04-28,Main Street Terrace,Toronto,150,5,0,0,City of Toronto Health Unit
+546,2020-04-28,Malton Village Long Term Care Centre,Mississauga,160,5,0,0,Peel Regional Health Unit
+547,2020-04-28,Manoir Marochel,Ottawa,64,10,5,5,Ottawa Public Health
+548,2020-04-28,Maple View,Owen Sound,29,22,0,0,Grey Bruce Health Unit
+549,2020-04-28,Markhaven,Markham,96,10,15,15,York Regional Health Unit
+550,2020-04-28,Maynard Nursing Home,Toronto,77,5,0,0,City of Toronto Health Unit
+551,2020-04-28,McCall Centre Long Term Care Interim Unit,Etobicoke,21,0,0,0,City of Toronto Health Unit
+552,2020-04-28,Meadow Park (London),London,126,6,0,0,Middlesex-London Health Unit
+553,2020-04-28,Midland Gardens Care Community,Scarborough,299,5,5,5,City of Toronto Health Unit
+554,2020-04-28,Moira Place Long-Term Care Home,Tweed,128,0,0,0,Hastings and Prince Edward Counties Health Unit
+555,2020-04-28,Mon Sheong Home for the Aged,Toronto,105,27,25,25,City of Toronto Health Unit
+556,2020-04-28,Montfort,Ottawa,128,46,12,12,Ottawa Public Health
+557,2020-04-28,Northridge,Oakville,133,5,0,0,Halton Regional Health Unit
+558,2020-04-28,Norwood Nursing Home,Toronto,60,5,0,0,City of Toronto Health Unit
+559,2020-04-28,Orchard Villa,Pickering,233,144,48,48,Durham Regional Health Unit
+560,2020-04-28,Owen Hill Care Community,Barrie,57,0,0,0,Simcoe Muskoka District Health Unit
+561,2020-04-28,Peel Manor,Brampton,177,7,5,5,Peel Regional Health Unit
+562,2020-04-28,peopleCare A.R. Goudie Kitchener,Kitchener,80,12,5,5,Waterloo Health Unit
+563,2020-04-28,Pinecrest (Plantagenet),Plantagenet,60,8,0,0,Eastern Ontario Health Unit
+564,2020-04-28,Pinecrest Nursing Home (Bobcaygeon),Bobcaygeon,65,33,29,29,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+565,2020-04-28,Pioneer Manor,Sudbury,433,5,0,0,Sudbury and District Health Unit
+566,2020-04-28,Post Inn Village,Oakville,228,5,0,0,Halton Regional Health Unit
+567,2020-04-28,Providence Healthcare,Scarborough,288,13,5,5,City of Toronto Health Unit
+568,2020-04-28,ReachView Village,Uxbridge,100,5,0,0,Durham Regional Health Unit
+569,2020-04-28,Residence Prescott et Russell,Hawkesbury,146,0,0,0,Eastern Ontario Health Unit
+570,2020-04-28,Residence Saint-Louis,Ottawa,198,5,0,0,Ottawa Public Health
+571,2020-04-28,Royal Rose Place,Welland,96,40,11,11,Niagara Regional Area Health Unit
+572,2020-04-28,Royal Terrace,Palmerston,67,5,0,0,Wellington-Dufferin-Guelph Health Unit
+573,2020-04-28,Seven Oaks,Scarborough,249,94,34,34,City of Toronto Health Unit
+574,2020-04-28,Shelburne Long Term Care Home,Shelburne,60,17,5,5,Wellington-Dufferin-Guelph Health Unit
+575,2020-04-28,Shepherd Lodge,Toronto,252,0,0,0,City of Toronto Health Unit
+576,2020-04-28,Sherbourne Place,Toronto,126,43,14,14,City of Toronto Health Unit
+577,2020-04-28,Sheridan Villa,Mississauga,142,5,5,5,Peel Regional Health Unit
+578,2020-04-28,Silverthorn Care Community,Mississauga,160,0,0,0,Peel Regional Health Unit
+579,2020-04-28,Southlake Residential Care Village,Newmarket,224,0,0,0,York Regional Health Unit
+580,2020-04-28,St. Clair O'Connor Community Nursing Home,East York,25,5,8,8,City of Toronto Health Unit
+581,2020-04-28,St. George Care Community,Toronto,238,0,0,0,City of Toronto Health Unit
+582,2020-04-28,St. Joseph's at Fleming,Peterborough,200,5,0,0,Peterborough County-City Health Unit
+583,2020-04-28,St. Joseph's Lifecare Centre,Brantford,205,0,0,0,Brant County Health Unit
+584,2020-04-28,"St. Joseph's Villa, Dundas",Dundas,425,5,0,0,City of Hamilton Health Unit
+585,2020-04-28,"St. Joseph's Villa, Sudbury",Sudbury,128,5,0,0,Sudbury and District Health Unit
+586,2020-04-28,Stoneridge Manor,Carleton Place,60,51,6,6,"Leeds, Grenville and Lanark District Health Unit"
+587,2020-04-28,Strathcona Long Term Care,Mount Forest,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+588,2020-04-28,Sun Parlor Home for Senior Citizens,Leamington,206,0,5,5,Windsor-Essex County Health Unit
+589,2020-04-28,Tall Pines Long Term Care Centre,Brampton,160,0,0,0,Peel Regional Health Unit
+590,2020-04-28,Telfer Place,Paris,45,5,0,0,Brant County Health Unit
+591,2020-04-28,The Henley House,St. Catharines,160,5,0,0,Niagara Regional Area Health Unit
+592,2020-04-28,The Jewish Home for the Aged,North York,472,5,5,5,City of Toronto Health Unit
+593,2020-04-28,The Kensington Gardens,Toronto,350,22,5,5,City of Toronto Health Unit
+594,2020-04-28,The O'Neill Centre,Toronto,162,5,0,0,City of Toronto Health Unit
+595,2020-04-28,The Perley and Rideau Veterans' Health Centre,Ottawa,450,6,5,5,Ottawa Public Health
+596,2020-04-28,The Village at University Gates,Waterloo,192,0,5,5,Waterloo Health Unit
+597,2020-04-28,The Village of Erin Meadows,Mississauga,180,43,9,9,Peel Regional Health Unit
+598,2020-04-28,The Village of Humber Heights,Etobicoke,192,9,5,5,City of Toronto Health Unit
+599,2020-04-28,The Village of Riverside Glen,Guelph,192,0,0,0,Wellington-Dufferin-Guelph Health Unit
+600,2020-04-28,The Wexford,Scarborough,166,5,0,0,City of Toronto Health Unit
+601,2020-04-28,The Woodlands of Sunset,Welland,121,5,0,0,Niagara Regional Area Health Unit
+602,2020-04-28,Trinity Village Care Centre,Kitchener,150,26,5,5,Waterloo Health Unit
+603,2020-04-28,Ukrainian Canadian Care Centre,Etobicoke,152,25,5,5,City of Toronto Health Unit
+604,2020-04-28,Valleyview Residence,North York,174,6,5,5,City of Toronto Health Unit
+605,2020-04-28,Villa Colombo Homes for the Aged,Toronto,391,5,0,0,City of Toronto Health Unit
+606,2020-04-28,Villa Colombo Seniors Centre (Vaughan),Vaughan,160,28,7,7,York Regional Health Unit
+607,2020-04-28,Villa Forum,Mississauga,160,34,7,7,Peel Regional Health Unit
+608,2020-04-28,Villa Leonardo Gambin,Woodbridge,168,30,10,10,York Regional Health Unit
+609,2020-04-28,Vision Nursing Home,Sarnia,146,5,0,0,Lambton Health Unit
+610,2020-04-28,Wellesley Central Place,Toronto,150,30,11,11,City of Toronto Health Unit
+611,2020-04-28,Wesburn Manor,Etobicoke,192,5,0,0,City of Toronto Health Unit
+612,2020-04-28,West Park Long Term Care Centre,Toronto,200,35,12,12,City of Toronto Health Unit
+613,2020-04-28,Weston Terrace Care Community,Toronto,224,8,5,5,City of Toronto Health Unit
+614,2020-04-28,Winbourne Park,Ajax,110,0,0,0,Durham Regional Health Unit
+615,2020-04-28,Woods Park Care Centre,Barrie,123,0,0,0,Simcoe Muskoka District Health Unit
+616,2020-04-28,Yee Hong Centre - Scarborough McNicoll,Scarborough,155,5,0,0,City of Toronto Health Unit
+768,2020-05-01,Trinity Village Care Centre,Kitchener,150,32,5,5,Waterloo Health Unit
+769,2020-05-01,Ukrainian Canadian Care Centre,Etobicoke,152,25,5,5,City of Toronto Health Unit
+770,2020-05-01,Valleyview Residence,North York,174,5,5,5,City of Toronto Health Unit
+771,2020-05-01,Villa Colombo Homes for the Aged,Toronto,391,5,0,0,City of Toronto Health Unit
+772,2020-05-01,Villa Colombo Seniors Centre (Vaughan),Vaughan,160,28,7,7,York Regional Health Unit
+773,2020-05-01,Villa Forum,Mississauga,160,38,9,9,Peel Regional Health Unit
+774,2020-05-01,Villa Leonardo Gambin,Woodbridge,168,30,10,10,York Regional Health Unit
+775,2020-05-01,Vision Nursing Home,Sarnia,146,5,0,0,Lambton Health Unit
+776,2020-05-01,Wellesley Central Place,Toronto,150,36,16,16,City of Toronto Health Unit
+777,2020-05-01,Wesburn Manor,Etobicoke,192,5,0,0,City of Toronto Health Unit
+778,2020-05-01,West Park Long Term Care Centre,Toronto,200,56,17,17,City of Toronto Health Unit
+779,2020-05-01,Weston Terrace Care Community,Toronto,224,8,5,5,City of Toronto Health Unit
+780,2020-05-01,Winbourne Park,Ajax,110,0,0,0,Durham Regional Health Unit
+781,2020-05-01,Woods Park Care Centre,Barrie,123,0,0,0,Simcoe Muskoka District Health Unit
+782,2020-05-01,Yee Hong Centre - Scarborough McNicoll,Scarborough,155,5,0,0,City of Toronto Health Unit
+783,2020-05-02,Almonte Country Haven,Almonte,82,36,25,25,"Leeds, Grenville and Lanark District Health Unit"
+784,2020-05-02,Altamont Care Community,Scarborough,159,76,41,41,City of Toronto Health Unit
+785,2020-05-02,Anson Place Care Centre,Hagersville,61,28,23,23,Haldimand-Norfolk Health Unit
+786,2020-05-02,Bay Ridges,Pickering,124,0,0,0,Durham Regional Health Unit
+787,2020-05-02,Belmont House,Toronto,140,0,0,0,City of Toronto Health Unit
+788,2020-05-02,Belmont Long Term Care Facility,Belleville,128,12,0,0,Hastings and Prince Edward Counties Health Unit
+789,2020-05-02,Bendale Acres,Scarborough,302,0,0,0,City of Toronto Health Unit
+790,2020-05-02,Bethany Lodge,Markham,128,5,5,5,York Regional Health Unit
+791,2020-05-02,Blue Water Rest Home,Zurich,65,5,0,0,Huron Perth Health Unit
+792,2020-05-02,Bradford Valley Care Community,Bradford,246,9,9,9,Simcoe Muskoka District Health Unit
+793,2020-05-02,Braemar Retirement Centre,Wingham,69,0,0,0,
+794,2020-05-02,Brucelea Haven Long Term Care Home - Corporation of the County of Bruce,Walkerton,144,0,0,0,
+795,2020-05-02,Burton Manor,Brampton,128,32,5,5,Peel Regional Health Unit
+796,2020-05-02,Camilla Care Community,Mississauga,236,121,21,21,Peel Regional Health Unit
+797,2020-05-02,Carefree Lodge,North York,127,5,0,0,City of Toronto Health Unit
+798,2020-05-02,Caressant Care Courtland,Courtland,55,0,0,0,Haldimand-Norfolk Health Unit
+799,2020-05-02,Caressant Care Fergus Nursing Home,Fergus,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+800,2020-05-02,Caressant Care on Bonnie Place,St Thomas,116,0,0,0,Southwestern Public Health Unit
+801,2020-05-02,Carlingview Manor,Ottawa,303,119,12,12,Ottawa Public Health
+802,2020-05-02,Case Manor Care Community,Bobcaygeon,96,6,0,0,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+803,2020-05-02,Castleview Wychwood Towers,Toronto,456,0,0,0,City of Toronto Health Unit
+804,2020-05-02,Cedarvale Terrace,Toronto,218,0,0,0,City of Toronto Health Unit
+805,2020-05-02,Chartwell Aurora Long Term Care Residence,Aurora,235,24,9,9,York Regional Health Unit
+806,2020-05-02,Chartwell Ballycliffe Long Term Care Residence,Ajax,100,34,27,27,Durham Regional Health Unit
+807,2020-05-02,Chartwell Elmira Long Term Care Residence,Elmira,48,5,0,0,
+808,2020-05-02,Chartwell Gibson Long Term Care Residence,North York,202,31,9,9,City of Toronto Health Unit
+809,2020-05-02,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,0,0,0,York Regional Health Unit
+810,2020-05-02,Chartwell Waterford Long Term Care Residence,Oakville,168,0,0,0,Halton Regional Health Unit
+811,2020-05-02,Chartwell Westbury Long Term Care Residence,Etobicoke,187,54,13,13,City of Toronto Health Unit
+812,2020-05-02,Chartwell White Eagle Long Term Care Residence,Toronto,56,18,11,11,City of Toronto Health Unit
+813,2020-05-02,Chartwell Woodhaven Long Term Care Residence,Markham,192,0,0,0,York Regional Health Unit
+814,2020-05-02,Cooksville Care Centre,Mississauga,192,28,0,0,Peel Regional Health Unit
+815,2020-05-02,Copernicus Lodge,Toronto,228,0,0,0,City of Toronto Health Unit
+816,2020-05-02,Country Village Homes - Woodslee,Woodslee,104,10,18,18,Windsor-Essex County Health Unit
+817,2020-05-02,Craiglee Nursing Home,Scarborough,169,5,0,0,City of Toronto Health Unit
+818,2020-05-02,Cummer Lodge,North York,391,5,5,5,City of Toronto Health Unit
+819,2020-05-02,Dom Lipa,Etobicoke,66,5,0,0,City of Toronto Health Unit
+820,2020-05-02,Downsview Long Term Care Centre,North York,252,44,6,6,City of Toronto Health Unit
+821,2020-05-02,Dufferin Oaks,Shelburne,160,5,5,5,Wellington-Dufferin-Guelph Health Unit
+822,2020-05-02,Dundurn Place Care Centre,Hamilton,201,5,5,5,City of Hamilton Health Unit
+823,2020-05-02,Eagle Terrace,Newmarket,70,5,5,5,York Regional Health Unit
+824,2020-05-02,Earls Court Village,London,128,9,5,5,Middlesex-London Health Unit
+825,2020-05-02,Eatonville Care Centre,Etobicoke,247,143,39,39,City of Toronto Health Unit
+826,2020-05-02,Élisabeth-Bruyère Residence,Ottawa,71,6,5,5,Ottawa Public Health
+827,2020-05-02,Elm Grove Living Centre,Toronto,126,44,17,17,City of Toronto Health Unit
+828,2020-05-02,Elmwood Place,London,90,5,0,0,Middlesex-London Health Unit
+829,2020-05-02,Erin Mills Lodge Nursing Home,Mississauga,86,5,5,5,Peel Regional Health Unit
+830,2020-05-02,Extendicare Bayview,North York,205,62,7,7,City of Toronto Health Unit
+831,2020-05-02,Extendicare Brampton,Brampton,150,13,5,5,Peel Regional Health Unit
+832,2020-05-02,Extendicare Guildwood,Scarborough,169,5,0,0,City of Toronto Health Unit
+833,2020-05-02,Extendicare Lakefield,Lakefield,100,0,0,0,Peterborough County-City Health Unit
+834,2020-05-02,Extendicare Laurier Manor,Gloucester,242,34,13,13,City of Ottawa Health Unit
+835,2020-05-02,Extendicare Oshawa,Oshawa,175,5,0,0,Durham Regional Health Unit
+836,2020-05-02,Extendicare Rouge Valley,Toronto,192,0,0,0,City of Toronto Health Unit
+837,2020-05-02,Extendicare Scarborough,Scarborough,154,5,5,5,City of Toronto Health Unit
+838,2020-05-02,Extendicare Southwood Lakes,Windsor,150,0,0,0,Windsor-Essex County Health Unit
+839,2020-05-02,Extendicare Starwood,Nepean,192,0,0,0,City of Ottawa Health Unit
+840,2020-05-02,Extendicare York,Sudbury,288,0,0,0,Sudbury and District Health Unit
+841,2020-05-02,Faith Manor Nursing Home,Brampton,120,5,0,0,Peel Regional Health Unit
+842,2020-05-02,Forest Heights,Kitchener,240,146,35,35,Waterloo Health Unit
+843,2020-05-02,Fountain View Care Community,East York,158,0,0,0,City of Toronto Health Unit
+844,2020-05-02,Franklin Gardens Long Term Care Home,Leamington,120,5,0,0,Windsor-Essex County Health Unit
+845,2020-05-02,Garden Terrace,Kanata,160,0,0,0,City of Ottawa Health Unit
+846,2020-05-02,Gardenview Long Term Care Home,Townsend,64,0,0,0,Haldimand-Norfolk Health Unit
+847,2020-05-02,Garry J. Armstrong Home,Ottawa,180,0,0,0,Ottawa Public Health
+848,2020-05-02,Grace Manor,Brampton,120,46,5,5,Peel Regional Health Unit
+849,2020-05-02,Grace Villa Nursing Home,Hamilton,184,0,0,0,City of Hamilton Health Unit
+850,2020-05-02,Greenwood Court,Stratford,45,0,5,5,Huron Perth Health Unit
+851,2020-05-02,Hampton Terrace Care Centre,Burlington,101,0,0,0,Halton Regional Health Unit
+852,2020-05-02,Harold and Grace Baker Centre,Toronto,120,40,10,10,City of Toronto Health Unit
+853,2020-05-02,Hastings Manor Home for the Aged,Belleville,253,8,5,5,Hastings and Prince Edward Counties Health Unit
+854,2020-05-02,Hawthorne Place Care Centre,North York,269,43,21,21,City of Toronto Health Unit
+855,2020-05-02,Hellenic Home - Scarborough,Scarborough,128,34,9,9,City of Toronto Health Unit
+856,2020-05-02,Henley Place,London,192,5,0,0,Middlesex-London Health Unit
+857,2020-05-02,Heron Terrace Long Term Care Community,Windsor,140,38,12,12,Windsor-Essex County Health Unit
+858,2020-05-02,Hillsdale Terraces,Oshawa,200,29,13,13,Durham Regional Health Unit
+859,2020-05-02,Humber Valley Terrace,Etobicoke (Rexdale),158,6,0,0,City of Toronto Health Unit
+860,2020-05-02,Ina Grafton Gage Home,Scarborough,128,35,15,15,City of Toronto Health Unit
+861,2020-05-02,IOOF Seniors Home,Barrie,182,0,0,0,Simcoe Muskoka District Health Unit
+862,2020-05-02,Isabel and Arthur Meighen Manor,Toronto,168,68,34,34,City of Toronto Health Unit
+863,2020-05-02,Kensington Village,London,78,5,5,5,Middlesex-London Health Unit
+864,2020-05-02,Kipling Acres,Etobicoke,337,36,11,11,City of Toronto Health Unit
+865,2020-05-02,Kristus Darzs Latvian Home,Woodbridge,100,27,5,5,York Regional Health Unit
+866,2020-05-02,Labdara Lithuanian Nursing Home,Etobicoke,90,0,0,0,City of Toronto Health Unit
+867,2020-05-02,Lakeshore Lodge,Etobicoke,150,41,10,10,City of Toronto Health Unit
+868,2020-05-02,Lanark Heights Long Term Care Centre,Kitchener,160,6,5,5,Waterloo Health Unit
+869,2020-05-02,MacKenzie Place,Newmarket,93,47,8,8,York Regional Health Unit
+870,2020-05-02,Madonna Care Community,Orleans,160,53,22,22,City of Ottawa Health Unit
+871,2020-05-02,Main Street Terrace,Toronto,150,5,0,0,City of Toronto Health Unit
+872,2020-05-02,Malton Village Long Term Care Centre,Mississauga,160,5,0,0,Peel Regional Health Unit
+873,2020-05-02,Manoir Marochel,Ottawa,64,29,6,6,Ottawa Public Health
+874,2020-05-02,Markhaven,Markham,96,9,17,17,York Regional Health Unit
+875,2020-05-02,Maynard Nursing Home,Toronto,77,5,0,0,City of Toronto Health Unit
+876,2020-05-02,McCall Centre Long Term Care Interim Unit,Etobicoke,21,0,0,0,City of Toronto Health Unit
+877,2020-05-02,Meadow Park (London),London,126,6,0,0,Middlesex-London Health Unit
+878,2020-05-02,Midland Gardens Care Community,Scarborough,299,5,5,5,City of Toronto Health Unit
+879,2020-05-02,Moira Place Long-Term Care Home,Tweed,128,0,0,0,Hastings and Prince Edward Counties Health Unit
+880,2020-05-02,Mon Sheong Home for the Aged,Toronto,105,23,29,29,City of Toronto Health Unit
+881,2020-05-02,Montfort,Ottawa,128,54,19,19,Ottawa Public Health
+882,2020-05-02,Northridge,Oakville,133,5,0,0,Halton Regional Health Unit
+883,2020-05-02,Northview Nursing Home,Englehart,48,5,0,0,
+884,2020-05-02,Norwood Nursing Home,Toronto,60,5,0,0,City of Toronto Health Unit
+885,2020-05-02,Orchard Villa,Pickering,233,135,57,57,Durham Regional Health Unit
+886,2020-05-02,Owen Hill Care Community,Barrie,57,7,0,0,Simcoe Muskoka District Health Unit
+887,2020-05-02,Peel Manor,Brampton,177,7,5,5,Peel Regional Health Unit
+888,2020-05-02,peopleCare A.R. Goudie Kitchener,Kitchener,80,5,5,5,Waterloo Health Unit
+889,2020-05-02,Peter D. Clark Centre,Ottawa,216,0,0,0,Ottawa Public Health
+890,2020-05-02,Pinecrest (Plantagenet),Plantagenet,60,8,0,0,Eastern Ontario Health Unit
+891,2020-05-02,Pinecrest Nursing Home (Bobcaygeon),Bobcaygeon,65,33,29,29,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+892,2020-05-02,Pinehaven Nursing Home,Waterloo,84,0,0,0,Waterloo Health Unit
+893,2020-05-02,Pioneer Manor,Sudbury,433,5,0,0,Sudbury and District Health Unit
+894,2020-05-02,Post Inn Village,Oakville,228,5,0,0,Halton Regional Health Unit
+895,2020-05-02,Providence Healthcare,Scarborough,288,10,5,5,City of Toronto Health Unit
+896,2020-05-02,ReachView Village,Uxbridge,100,5,5,5,Durham Regional Health Unit
+897,2020-05-02,Residence Saint-Louis,Ottawa,198,11,5,5,Ottawa Public Health
+898,2020-05-02,River Glen Haven Nursing Home,Sutton West,119,21,0,0,
+899,2020-05-02,Royal Rose Place,Welland,96,18,15,15,Niagara Regional Area Health Unit
+900,2020-05-02,Royal Terrace,Palmerston,67,5,0,0,Wellington-Dufferin-Guelph Health Unit
+901,2020-05-02,Seven Oaks,Scarborough,249,54,38,38,City of Toronto Health Unit
+902,2020-05-02,Shelburne Long Term Care Home,Shelburne,60,42,11,11,Wellington-Dufferin-Guelph Health Unit
+903,2020-05-02,Shepherd Lodge,Toronto,252,0,0,0,City of Toronto Health Unit
+904,2020-05-02,Sherbourne Place,Toronto,126,34,16,16,City of Toronto Health Unit
+905,2020-05-02,Sheridan Villa,Mississauga,142,7,5,5,Peel Regional Health Unit
+906,2020-05-02,Silverthorn Care Community,Mississauga,160,0,0,0,Peel Regional Health Unit
+907,2020-05-02,Southlake Residential Care Village,Newmarket,224,0,0,0,York Regional Health Unit
+908,2020-05-02,St. Clair O'Connor Community Nursing Home,East York,25,5,8,8,City of Toronto Health Unit
+909,2020-05-02,St. George Care Community,Toronto,238,0,0,0,City of Toronto Health Unit
+910,2020-05-02,St. Joseph's at Fleming,Peterborough,200,10,0,0,Peterborough County-City Health Unit
+911,2020-05-02,St. Joseph's Lifecare Centre,Brantford,205,0,0,0,Brant County Health Unit
+912,2020-05-02,"St. Joseph's Villa, Dundas",Dundas,425,5,0,0,City of Hamilton Health Unit
+913,2020-05-02,"St. Joseph's Villa, Sudbury",Sudbury,128,0,5,5,Sudbury and District Health Unit
+914,2020-05-02,St. Patrick's Home,Ottawa,288,5,0,0,Ottawa Public Health
+915,2020-05-02,Stirling Heights,Cambridge,110,0,0,0,
+916,2020-05-02,Stoneridge Manor,Carleton Place,60,51,6,6,"Leeds, Grenville and Lanark District Health Unit"
+917,2020-05-02,Strathcona Long Term Care,Mount Forest,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+918,2020-05-02,Sumac Lodge,Sarnia,100,0,0,0,Lambton Health Unit
+919,2020-05-02,Sun Parlor Home for Senior Citizens,Leamington,206,5,5,5,Windsor-Essex County Health Unit
+920,2020-05-02,Tall Pines Long Term Care Centre,Brampton,160,5,0,0,Peel Regional Health Unit
+921,2020-05-02,Telfer Place,Paris,45,5,0,0,Brant County Health Unit
+922,2020-05-02,Temiskaming Lodge,Haileybury,83,5,0,0,
+923,2020-05-02,The Henley House,St. Catharines,160,0,0,0,Niagara Regional Area Health Unit
+924,2020-05-02,The Jewish Home for the Aged,North York,472,5,5,5,City of Toronto Health Unit
+925,2020-05-02,The Kensington Gardens,Toronto,350,16,6,6,City of Toronto Health Unit
+926,2020-05-02,The O'Neill Centre,Toronto,162,5,0,0,City of Toronto Health Unit
+927,2020-05-02,The Perley and Rideau Veterans' Health Centre,Ottawa,450,15,5,5,Ottawa Public Health
+928,2020-05-02,The Village at University Gates,Waterloo,192,0,0,0,Waterloo Health Unit
+929,2020-05-02,The Village of Erin Meadows,Mississauga,180,43,9,9,Peel Regional Health Unit
+930,2020-05-02,The Village of Humber Heights,Etobicoke,192,9,5,5,City of Toronto Health Unit
+931,2020-05-02,The Village of Riverside Glen,Guelph,192,0,0,0,Wellington-Dufferin-Guelph Health Unit
+932,2020-05-02,The Wexford,Scarborough,166,5,0,0,City of Toronto Health Unit
+933,2020-05-02,The Woodlands of Sunset,Welland,121,5,0,0,Niagara Regional Area Health Unit
+934,2020-05-02,Tony Stacey Centre for Veterans' Care,Toronto,100,5,0,0,City of Toronto Health Unit
+935,2020-05-02,Trinity Village Care Centre,Kitchener,150,32,5,5,Waterloo Health Unit
+936,2020-05-02,Ukrainian Canadian Care Centre,Etobicoke,152,25,5,5,City of Toronto Health Unit
+937,2020-05-02,Valleyview Residence,North York,174,5,5,5,City of Toronto Health Unit
+938,2020-05-02,Villa Colombo Homes for the Aged,Toronto,391,5,0,0,City of Toronto Health Unit
+939,2020-05-02,Villa Colombo Seniors Centre (Vaughan),Vaughan,160,28,7,7,York Regional Health Unit
+940,2020-05-02,Villa Forum,Mississauga,160,38,9,9,Peel Regional Health Unit
+941,2020-05-02,Villa Leonardo Gambin,Woodbridge,168,30,10,10,York Regional Health Unit
+942,2020-05-02,Vision Nursing Home,Sarnia,146,5,0,0,Lambton Health Unit
+943,2020-05-02,Wellesley Central Place,Toronto,150,36,16,16,City of Toronto Health Unit
+944,2020-05-02,Wesburn Manor,Etobicoke,192,5,0,0,City of Toronto Health Unit
+945,2020-05-02,West Park Long Term Care Centre,Toronto,200,56,17,17,City of Toronto Health Unit
+946,2020-05-02,Weston Terrace Care Community,Toronto,224,8,5,5,City of Toronto Health Unit
+947,2020-05-02,Winbourne Park,Ajax,110,0,0,0,Durham Regional Health Unit
+948,2020-05-02,Woods Park Care Centre,Barrie,123,0,0,0,Simcoe Muskoka District Health Unit
+949,2020-05-02,Yee Hong Centre - Scarborough McNicoll,Scarborough,155,5,0,0,City of Toronto Health Unit
+950,2020-05-03,Almonte Country Haven,Almonte,82,36,25,25,"Leeds, Grenville and Lanark District Health Unit"
+951,2020-05-03,Altamont Care Community,Scarborough,159,76,41,41,City of Toronto Health Unit
+952,2020-05-03,Anson Place Care Centre,Hagersville,61,28,23,23,Haldimand-Norfolk Health Unit
+953,2020-05-03,Bay Ridges,Pickering,124,0,0,0,Durham Regional Health Unit
+954,2020-05-03,Belmont House,Toronto,140,0,0,0,City of Toronto Health Unit
+955,2020-05-03,Belmont Long Term Care Facility,Belleville,128,12,0,0,Hastings and Prince Edward Counties Health Unit
+956,2020-05-03,Bendale Acres,Scarborough,302,0,0,0,City of Toronto Health Unit
+957,2020-05-03,Bethany Lodge,Markham,128,5,5,5,York Regional Health Unit
+958,2020-05-03,Blue Water Rest Home,Zurich,65,5,0,0,Huron Perth Health Unit
+959,2020-05-03,Bradford Valley Care Community,Bradford,246,9,9,9,Simcoe Muskoka District Health Unit
+960,2020-05-03,Braemar Retirement Centre,Wingham,69,0,0,0,
+961,2020-05-03,Brucelea Haven Long Term Care Home - Corporation of the County of Bruce,Walkerton,144,0,0,0,
+962,2020-05-03,Burton Manor,Brampton,128,32,5,5,Peel Regional Health Unit
+963,2020-05-03,Camilla Care Community,Mississauga,236,121,21,21,Peel Regional Health Unit
+964,2020-05-03,Carefree Lodge,North York,127,5,0,0,City of Toronto Health Unit
+965,2020-05-03,Caressant Care Courtland,Courtland,55,0,0,0,Haldimand-Norfolk Health Unit
+966,2020-05-03,Caressant Care Fergus Nursing Home,Fergus,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+967,2020-05-03,Caressant Care on Bonnie Place,St Thomas,116,0,0,0,Southwestern Public Health Unit
+968,2020-05-03,Carlingview Manor,Ottawa,303,110,21,21,Ottawa Public Health
+969,2020-05-03,Case Manor Care Community,Bobcaygeon,96,6,0,0,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+970,2020-05-03,Castleview Wychwood Towers,Toronto,456,0,0,0,City of Toronto Health Unit
+971,2020-05-03,Cedarvale Terrace,Toronto,218,0,0,0,City of Toronto Health Unit
+972,2020-05-03,Chartwell Aurora Long Term Care Residence,Aurora,235,24,9,9,York Regional Health Unit
+973,2020-05-03,Chartwell Ballycliffe Long Term Care Residence,Ajax,100,34,27,27,Durham Regional Health Unit
+974,2020-05-03,Chartwell Elmira Long Term Care Residence,Elmira,48,5,0,0,
+975,2020-05-03,Chartwell Gibson Long Term Care Residence,North York,202,31,9,9,City of Toronto Health Unit
+976,2020-05-03,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,0,0,0,York Regional Health Unit
+977,2020-05-03,Chartwell Waterford Long Term Care Residence,Oakville,168,5,0,0,Halton Regional Health Unit
+978,2020-05-03,Chartwell Westbury Long Term Care Residence,Etobicoke,187,54,13,13,City of Toronto Health Unit
+979,2020-05-03,Chartwell White Eagle Long Term Care Residence,Toronto,56,18,11,11,City of Toronto Health Unit
+980,2020-05-03,Chartwell Woodhaven Long Term Care Residence,Markham,192,0,0,0,York Regional Health Unit
+981,2020-05-03,Cooksville Care Centre,Mississauga,192,28,0,0,Peel Regional Health Unit
+982,2020-05-03,Copernicus Lodge,Toronto,228,0,0,0,City of Toronto Health Unit
+983,2020-05-03,Country Village Homes - Woodslee,Woodslee,104,10,18,18,Windsor-Essex County Health Unit
+984,2020-05-03,Craiglee Nursing Home,Scarborough,169,5,5,5,City of Toronto Health Unit
+985,2020-05-03,Cummer Lodge,North York,391,5,5,5,City of Toronto Health Unit
+986,2020-05-03,Dom Lipa,Etobicoke,66,5,0,0,City of Toronto Health Unit
+987,2020-05-03,Downsview Long Term Care Centre,North York,252,44,6,6,City of Toronto Health Unit
+988,2020-05-03,Dufferin Oaks,Shelburne,160,5,5,5,Wellington-Dufferin-Guelph Health Unit
+989,2020-05-03,Dundurn Place Care Centre,Hamilton,201,5,5,5,City of Hamilton Health Unit
+990,2020-05-03,Eagle Terrace,Newmarket,70,5,5,5,York Regional Health Unit
+991,2020-05-03,Earls Court Village,London,128,9,5,5,Middlesex-London Health Unit
+992,2020-05-03,Eatonville Care Centre,Etobicoke,247,143,39,39,City of Toronto Health Unit
+993,2020-05-03,Élisabeth-Bruyère Residence,Ottawa,71,8,5,5,Ottawa Public Health
+994,2020-05-03,Elm Grove Living Centre,Toronto,126,44,17,17,City of Toronto Health Unit
+995,2020-05-03,Elmwood Place,London,90,5,0,0,Middlesex-London Health Unit
+996,2020-05-03,Erin Mills Lodge Nursing Home,Mississauga,86,36,7,7,Peel Regional Health Unit
+997,2020-05-03,Extendicare Bayview,North York,205,69,7,7,City of Toronto Health Unit
+998,2020-05-03,Extendicare Brampton,Brampton,150,13,5,5,Peel Regional Health Unit
+999,2020-05-03,Extendicare Guildwood,Scarborough,169,5,0,0,City of Toronto Health Unit
+1000,2020-05-03,Extendicare Lakefield,Lakefield,100,0,0,0,Peterborough County-City Health Unit
+1001,2020-05-03,Extendicare Laurier Manor,Gloucester,242,34,13,13,City of Ottawa Health Unit
+1002,2020-05-03,Extendicare Oshawa,Oshawa,175,5,0,0,Durham Regional Health Unit
+1003,2020-05-03,Extendicare Rouge Valley,Toronto,192,0,0,0,City of Toronto Health Unit
+1004,2020-05-03,Extendicare Scarborough,Scarborough,154,5,5,5,City of Toronto Health Unit
+1005,2020-05-03,Extendicare Southwood Lakes,Windsor,150,0,0,0,Windsor-Essex County Health Unit
+1006,2020-05-03,Extendicare Starwood,Nepean,192,0,0,0,City of Ottawa Health Unit
+1007,2020-05-03,Extendicare York,Sudbury,288,0,0,0,Sudbury and District Health Unit
+1008,2020-05-03,Faith Manor Nursing Home,Brampton,120,5,0,0,Peel Regional Health Unit
+1009,2020-05-03,Forest Heights,Kitchener,240,146,35,35,Waterloo Health Unit
+1010,2020-05-03,Fountain View Care Community,East York,158,0,0,0,City of Toronto Health Unit
+1011,2020-05-03,Franklin Gardens Long Term Care Home,Leamington,120,5,0,0,Windsor-Essex County Health Unit
+1012,2020-05-03,Garden Terrace,Kanata,160,0,0,0,City of Ottawa Health Unit
+1013,2020-05-03,Gardenview Long Term Care Home,Townsend,64,0,0,0,Haldimand-Norfolk Health Unit
+1014,2020-05-03,Garry J. Armstrong Home,Ottawa,180,0,0,0,Ottawa Public Health
+1015,2020-05-03,Grace Manor,Brampton,120,47,6,6,Peel Regional Health Unit
+1016,2020-05-03,Grace Villa Nursing Home,Hamilton,184,0,0,0,City of Hamilton Health Unit
+1017,2020-05-03,Greenwood Court,Stratford,45,0,5,5,Huron Perth Health Unit
+1018,2020-05-03,Hampton Terrace Care Centre,Burlington,101,0,0,0,Halton Regional Health Unit
+1019,2020-05-03,Harold and Grace Baker Centre,Toronto,120,8,13,13,City of Toronto Health Unit
+1020,2020-05-03,Hastings Manor Home for the Aged,Belleville,253,8,5,5,Hastings and Prince Edward Counties Health Unit
+1021,2020-05-03,Hawthorne Place Care Centre,North York,269,43,21,21,City of Toronto Health Unit
+1022,2020-05-03,Hellenic Home - Scarborough,Scarborough,128,34,9,9,City of Toronto Health Unit
+1023,2020-05-03,Henley Place,London,192,5,0,0,Middlesex-London Health Unit
+1024,2020-05-03,Heron Terrace Long Term Care Community,Windsor,140,38,12,12,Windsor-Essex County Health Unit
+1025,2020-05-03,Hillsdale Terraces,Oshawa,200,29,13,13,Durham Regional Health Unit
+1026,2020-05-03,Humber Valley Terrace,Etobicoke (Rexdale),158,6,0,0,City of Toronto Health Unit
+1027,2020-05-03,Ina Grafton Gage Home,Scarborough,128,35,15,15,City of Toronto Health Unit
+1028,2020-05-03,IOOF Seniors Home,Barrie,182,0,0,0,Simcoe Muskoka District Health Unit
+1029,2020-05-03,Isabel and Arthur Meighen Manor,Toronto,168,68,34,34,City of Toronto Health Unit
+1030,2020-05-03,Kensington Village,London,78,5,5,5,Middlesex-London Health Unit
+1031,2020-05-03,Kipling Acres,Etobicoke,337,36,11,11,City of Toronto Health Unit
+1032,2020-05-03,Kristus Darzs Latvian Home,Woodbridge,100,27,5,5,York Regional Health Unit
+1033,2020-05-03,Labdara Lithuanian Nursing Home,Etobicoke,90,0,0,0,City of Toronto Health Unit
+1034,2020-05-03,Lakeshore Lodge,Etobicoke,150,41,10,10,City of Toronto Health Unit
+1035,2020-05-03,Lanark Heights Long Term Care Centre,Kitchener,160,6,5,5,Waterloo Health Unit
+1036,2020-05-03,MacKenzie Place,Newmarket,93,47,8,8,York Regional Health Unit
+1037,2020-05-03,Madonna Care Community,Orleans,160,50,25,25,City of Ottawa Health Unit
+1038,2020-05-03,Main Street Terrace,Toronto,150,5,0,0,City of Toronto Health Unit
+1039,2020-05-03,Malton Village Long Term Care Centre,Mississauga,160,5,0,0,Peel Regional Health Unit
+1040,2020-05-03,Manoir Marochel,Ottawa,64,29,6,6,Ottawa Public Health
+1041,2020-05-03,Markhaven,Markham,96,9,17,17,York Regional Health Unit
+1042,2020-05-03,Maynard Nursing Home,Toronto,77,5,0,0,City of Toronto Health Unit
+1043,2020-05-03,McCall Centre Long Term Care Interim Unit,Etobicoke,21,0,0,0,City of Toronto Health Unit
+1044,2020-05-03,Meadow Park (London),London,126,5,5,5,Middlesex-London Health Unit
+1045,2020-05-03,Midland Gardens Care Community,Scarborough,299,0,5,5,City of Toronto Health Unit
+1046,2020-05-03,Moira Place Long-Term Care Home,Tweed,128,0,0,0,Hastings and Prince Edward Counties Health Unit
+1047,2020-05-03,Mon Sheong Home for the Aged,Toronto,105,23,29,29,City of Toronto Health Unit
+1048,2020-05-03,Montfort,Ottawa,128,54,19,19,Ottawa Public Health
+1049,2020-05-03,Northridge,Oakville,133,5,0,0,Halton Regional Health Unit
+1050,2020-05-03,Northview Nursing Home,Englehart,48,5,0,0,
+1051,2020-05-03,Norwood Nursing Home,Toronto,60,5,0,0,City of Toronto Health Unit
+1052,2020-05-03,Orchard Villa,Pickering,233,134,58,58,Durham Regional Health Unit
+1053,2020-05-03,Owen Hill Care Community,Barrie,57,7,0,0,Simcoe Muskoka District Health Unit
+1054,2020-05-03,Peel Manor,Brampton,177,7,5,5,Peel Regional Health Unit
+1055,2020-05-03,peopleCare A.R. Goudie Kitchener,Kitchener,80,5,5,5,Waterloo Health Unit
+1056,2020-05-03,Peter D. Clark Centre,Ottawa,216,0,0,0,Ottawa Public Health
+1057,2020-05-03,Pinecrest (Plantagenet),Plantagenet,60,8,0,0,Eastern Ontario Health Unit
+1058,2020-05-03,Pinecrest Nursing Home (Bobcaygeon),Bobcaygeon,65,33,29,29,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+1059,2020-05-03,Pinehaven Nursing Home,Waterloo,84,0,0,0,Waterloo Health Unit
+1060,2020-05-03,Pioneer Manor,Sudbury,433,5,0,0,Sudbury and District Health Unit
+1061,2020-05-03,Post Inn Village,Oakville,228,5,0,0,Halton Regional Health Unit
+1062,2020-05-03,Providence Healthcare,Scarborough,288,10,5,5,City of Toronto Health Unit
+1063,2020-05-03,ReachView Village,Uxbridge,100,5,5,5,Durham Regional Health Unit
+1064,2020-05-03,Residence Saint-Louis,Ottawa,198,22,5,5,Ottawa Public Health
+1065,2020-05-03,River Glen Haven Nursing Home,Sutton West,119,21,0,0,
+1066,2020-05-03,Rockcliffe Care Community,Scarborough,204,0,0,0,City of Toronto Health Unit
+1067,2020-05-03,Royal Rose Place,Welland,96,18,15,15,Niagara Regional Area Health Unit
+1068,2020-05-03,Royal Terrace,Palmerston,67,5,0,0,Wellington-Dufferin-Guelph Health Unit
+1069,2020-05-03,Seven Oaks,Scarborough,249,54,38,38,City of Toronto Health Unit
+1070,2020-05-03,Shelburne Long Term Care Home,Shelburne,60,42,14,14,Wellington-Dufferin-Guelph Health Unit
+1071,2020-05-03,Shepherd Lodge,Toronto,252,0,0,0,City of Toronto Health Unit
+1072,2020-05-03,Sherbourne Place,Toronto,126,34,16,16,City of Toronto Health Unit
+1073,2020-05-03,Sheridan Villa,Mississauga,142,7,5,5,Peel Regional Health Unit
+1074,2020-05-03,Silverthorn Care Community,Mississauga,160,0,0,0,Peel Regional Health Unit
+1075,2020-05-03,Southlake Residential Care Village,Newmarket,224,0,0,0,York Regional Health Unit
+1076,2020-05-03,St. Clair O'Connor Community Nursing Home,East York,25,5,8,8,City of Toronto Health Unit
+1077,2020-05-03,St. Gabriel's Villa of Sudbury,Chelmsford,128,0,0,0,
+1078,2020-05-03,St. George Care Community,Toronto,238,0,0,0,City of Toronto Health Unit
+1079,2020-05-03,St. Joseph's at Fleming,Peterborough,200,5,0,0,Peterborough County-City Health Unit
+1080,2020-05-03,St. Joseph's Lifecare Centre,Brantford,205,0,0,0,Brant County Health Unit
+1081,2020-05-03,"St. Joseph's Villa, Dundas",Dundas,425,5,0,0,City of Hamilton Health Unit
+1082,2020-05-03,"St. Joseph's Villa, Sudbury",Sudbury,128,0,5,5,Sudbury and District Health Unit
+1083,2020-05-03,St. Patrick's Home,Ottawa,288,5,0,0,Ottawa Public Health
+1084,2020-05-03,Stirling Heights,Cambridge,110,0,0,0,
+1085,2020-05-03,Stoneridge Manor,Carleton Place,60,51,6,6,"Leeds, Grenville and Lanark District Health Unit"
+1086,2020-05-03,Strathcona Long Term Care,Mount Forest,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+1087,2020-05-03,Sumac Lodge,Sarnia,100,0,0,0,Lambton Health Unit
+1088,2020-05-03,Sun Parlor Home for Senior Citizens,Leamington,206,5,5,5,Windsor-Essex County Health Unit
+1089,2020-05-03,Tall Pines Long Term Care Centre,Brampton,160,5,0,0,Peel Regional Health Unit
+1090,2020-05-03,Telfer Place,Paris,45,5,0,0,Brant County Health Unit
+1091,2020-05-03,Temiskaming Lodge,Haileybury,83,5,0,0,
+1092,2020-05-03,The Henley House,St. Catharines,160,0,0,0,Niagara Regional Area Health Unit
+1093,2020-05-03,The Jewish Home for the Aged,North York,472,5,5,5,City of Toronto Health Unit
+1094,2020-05-03,The Kensington Gardens,Toronto,350,16,6,6,City of Toronto Health Unit
+1095,2020-05-03,The O'Neill Centre,Toronto,162,5,0,0,City of Toronto Health Unit
+1096,2020-05-03,The Perley and Rideau Veterans' Health Centre,Ottawa,450,15,5,5,Ottawa Public Health
+1097,2020-05-03,The Village at University Gates,Waterloo,192,0,0,0,Waterloo Health Unit
+1098,2020-05-03,The Village of Erin Meadows,Mississauga,180,43,9,9,Peel Regional Health Unit
+1099,2020-05-03,The Village of Humber Heights,Etobicoke,192,9,5,5,City of Toronto Health Unit
+1100,2020-05-03,The Village of Riverside Glen,Guelph,192,0,0,0,Wellington-Dufferin-Guelph Health Unit
+1101,2020-05-03,The Wexford,Scarborough,166,5,0,0,City of Toronto Health Unit
+1102,2020-05-03,The Woodlands of Sunset,Welland,121,5,0,0,Niagara Regional Area Health Unit
+1103,2020-05-03,Tony Stacey Centre for Veterans' Care,Toronto,100,5,0,0,City of Toronto Health Unit
+1104,2020-05-03,Trinity Village Care Centre,Kitchener,150,31,7,7,Waterloo Health Unit
+1105,2020-05-03,Ukrainian Canadian Care Centre,Etobicoke,152,25,5,5,City of Toronto Health Unit
+1106,2020-05-03,Valleyview Residence,North York,174,5,5,5,City of Toronto Health Unit
+1107,2020-05-03,Vermont Square,Toronto,130,5,0,0,City of Toronto Health Unit
+1108,2020-05-03,Villa Colombo Homes for the Aged,Toronto,391,5,0,0,City of Toronto Health Unit
+1109,2020-05-03,Villa Colombo Seniors Centre (Vaughan),Vaughan,160,28,7,7,York Regional Health Unit
+1110,2020-05-03,Villa Forum,Mississauga,160,38,9,9,Peel Regional Health Unit
+1111,2020-05-03,Villa Leonardo Gambin,Woodbridge,168,30,10,10,York Regional Health Unit
+1112,2020-05-03,Vision Nursing Home,Sarnia,146,5,0,0,Lambton Health Unit
+1113,2020-05-03,Wellesley Central Place,Toronto,150,36,16,16,City of Toronto Health Unit
+1114,2020-05-03,Wesburn Manor,Etobicoke,192,5,0,0,City of Toronto Health Unit
+1115,2020-05-03,West Park Long Term Care Centre,Toronto,200,56,17,17,City of Toronto Health Unit
+1116,2020-05-03,Weston Terrace Care Community,Toronto,224,42,13,13,City of Toronto Health Unit
+1117,2020-05-03,Woodland Villa,Long Sault,111,5,0,0,
+1118,2020-05-03,Woods Park Care Centre,Barrie,123,0,0,0,Simcoe Muskoka District Health Unit
+1119,2020-05-03,Yee Hong Centre - Scarborough McNicoll,Scarborough,155,5,0,0,City of Toronto Health Unit
+1120,2020-05-04,Almonte Country Haven,Almonte,82,45,24,24,"Leeds, Grenville and Lanark District Health Unit"
+1121,2020-05-04,Altamont Care Community,Scarborough,159,76,41,41,City of Toronto Health Unit
+1122,2020-05-04,Anson Place Care Centre,Hagersville,61,28,23,23,Haldimand-Norfolk Health Unit
+1123,2020-05-04,Bay Ridges,Pickering,124,0,0,0,Durham Regional Health Unit
+1124,2020-05-04,Belmont House,Toronto,140,0,0,0,City of Toronto Health Unit
+1125,2020-05-04,Belmont Long Term Care Facility,Belleville,128,12,0,0,Hastings and Prince Edward Counties Health Unit
+1126,2020-05-04,Bendale Acres,Scarborough,302,0,0,0,City of Toronto Health Unit
+1127,2020-05-04,Bethany Lodge,Markham,128,5,5,5,York Regional Health Unit
+1128,2020-05-04,Blue Water Rest Home,Zurich,65,5,0,0,Huron Perth Health Unit
+1129,2020-05-04,Bradford Valley Care Community,Bradford,246,9,9,9,Simcoe Muskoka District Health Unit
+1130,2020-05-04,Braemar Retirement Centre,Wingham,69,0,0,0,
+1131,2020-05-04,Brucelea Haven Long Term Care Home - Corporation of the County of Bruce,Walkerton,144,0,0,0,
+1132,2020-05-04,Burton Manor,Brampton,128,32,5,5,Peel Regional Health Unit
+1133,2020-05-04,Camilla Care Community,Mississauga,236,121,21,21,Peel Regional Health Unit
+1134,2020-05-04,Carefree Lodge,North York,127,5,0,0,City of Toronto Health Unit
+1135,2020-05-04,Caressant Care Courtland,Courtland,55,0,0,0,Haldimand-Norfolk Health Unit
+1136,2020-05-04,Caressant Care Fergus Nursing Home,Fergus,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+1137,2020-05-04,Caressant Care on Bonnie Place,St Thomas,116,0,0,0,Southwestern Public Health Unit
+1138,2020-05-04,Carlingview Manor,Ottawa,303,110,21,21,Ottawa Public Health
+1139,2020-05-04,Case Manor Care Community,Bobcaygeon,96,6,0,0,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+1140,2020-05-04,Castleview Wychwood Towers,Toronto,456,0,0,0,City of Toronto Health Unit
+1141,2020-05-04,Cedarvale Terrace,Toronto,218,0,0,0,City of Toronto Health Unit
+1142,2020-05-04,Centre d'Accueil Champlain,Vanier,160,0,0,0,
+1143,2020-05-04,Chartwell Aurora Long Term Care Residence,Aurora,235,24,9,9,York Regional Health Unit
+1144,2020-05-04,Chartwell Ballycliffe Long Term Care Residence,Ajax,100,34,27,27,Durham Regional Health Unit
+1145,2020-05-04,Chartwell Elmira Long Term Care Residence,Elmira,48,5,0,0,
+1146,2020-05-04,Chartwell Gibson Long Term Care Residence,North York,202,31,9,9,City of Toronto Health Unit
+1147,2020-05-04,Chartwell Pine Grove Long Term Care Residence,Woodbridge,96,0,0,0,York Regional Health Unit
+1148,2020-05-04,Chartwell Waterford Long Term Care Residence,Oakville,168,5,0,0,Halton Regional Health Unit
+1149,2020-05-04,Chartwell Westbury Long Term Care Residence,Etobicoke,187,54,13,13,City of Toronto Health Unit
+1150,2020-05-04,Chartwell White Eagle Long Term Care Residence,Toronto,56,18,11,11,City of Toronto Health Unit
+1151,2020-05-04,Chartwell Woodhaven Long Term Care Residence,Markham,192,0,0,0,York Regional Health Unit
+1152,2020-05-04,Cooksville Care Centre,Mississauga,192,28,0,0,Peel Regional Health Unit
+1153,2020-05-04,Copernicus Lodge,Toronto,228,0,0,0,City of Toronto Health Unit
+1154,2020-05-04,Country Village Homes - Woodslee,Woodslee,104,10,18,18,Windsor-Essex County Health Unit
+1155,2020-05-04,Craiglee Nursing Home,Scarborough,169,5,5,5,City of Toronto Health Unit
+1156,2020-05-04,Cummer Lodge,North York,391,5,5,5,City of Toronto Health Unit
+1157,2020-05-04,Dom Lipa,Etobicoke,66,5,0,0,City of Toronto Health Unit
+1158,2020-05-04,Downsview Long Term Care Centre,North York,252,56,14,14,City of Toronto Health Unit
+1159,2020-05-04,Dufferin Oaks,Shelburne,160,5,5,5,Wellington-Dufferin-Guelph Health Unit
+1160,2020-05-04,Dundurn Place Care Centre,Hamilton,201,5,5,5,City of Hamilton Health Unit
+1161,2020-05-04,Eagle Terrace,Newmarket,70,5,5,5,York Regional Health Unit
+1162,2020-05-04,Earls Court Village,London,128,9,5,5,Middlesex-London Health Unit
+1163,2020-05-04,Eatonville Care Centre,Etobicoke,247,143,39,39,City of Toronto Health Unit
+1164,2020-05-04,Élisabeth-Bruyère Residence,Ottawa,71,8,5,5,Ottawa Public Health
+1165,2020-05-04,Elm Grove Living Centre,Toronto,126,44,17,17,City of Toronto Health Unit
+1166,2020-05-04,Elmwood Place,London,90,5,0,0,Middlesex-London Health Unit
+1167,2020-05-04,Erin Mills Lodge Nursing Home,Mississauga,86,36,7,7,Peel Regional Health Unit
+1168,2020-05-04,Extendicare Bayview,North York,205,69,7,7,City of Toronto Health Unit
+1169,2020-05-04,Extendicare Brampton,Brampton,150,13,5,5,Peel Regional Health Unit
+1170,2020-05-04,Extendicare Guildwood,Scarborough,169,5,0,0,City of Toronto Health Unit
+1171,2020-05-04,Extendicare Lakefield,Lakefield,100,0,0,0,Peterborough County-City Health Unit
+1172,2020-05-04,Extendicare Laurier Manor,Gloucester,242,34,13,13,City of Ottawa Health Unit
+1173,2020-05-04,Extendicare Oshawa,Oshawa,175,5,0,0,Durham Regional Health Unit
+1174,2020-05-04,Extendicare Rouge Valley,Toronto,192,0,0,0,City of Toronto Health Unit
+1175,2020-05-04,Extendicare Scarborough,Scarborough,154,5,5,5,City of Toronto Health Unit
+1176,2020-05-04,Extendicare Southwood Lakes,Windsor,150,0,0,0,Windsor-Essex County Health Unit
+1177,2020-05-04,Extendicare Starwood,Nepean,192,0,0,0,City of Ottawa Health Unit
+1178,2020-05-04,Extendicare York,Sudbury,288,0,0,0,Sudbury and District Health Unit
+1179,2020-05-04,Faith Manor Nursing Home,Brampton,120,5,0,0,Peel Regional Health Unit
+1180,2020-05-04,Forest Heights,Kitchener,240,157,37,37,Waterloo Health Unit
+1181,2020-05-04,Fountain View Care Community,East York,158,0,0,0,City of Toronto Health Unit
+1182,2020-05-04,Franklin Gardens Long Term Care Home,Leamington,120,5,0,0,Windsor-Essex County Health Unit
+1183,2020-05-04,Garden Terrace,Kanata,160,0,0,0,City of Ottawa Health Unit
+1184,2020-05-04,Gardenview Long Term Care Home,Townsend,64,0,0,0,Haldimand-Norfolk Health Unit
+1185,2020-05-04,Garry J. Armstrong Home,Ottawa,180,0,0,0,Ottawa Public Health
+1186,2020-05-04,Golden Years Nursing Home,Cambridge,88,0,0,0,
+1187,2020-05-04,Grace Manor,Brampton,120,47,6,6,Peel Regional Health Unit
+1188,2020-05-04,Grace Villa Nursing Home,Hamilton,184,0,0,0,City of Hamilton Health Unit
+1189,2020-05-04,Greenwood Court,Stratford,45,0,5,5,Huron Perth Health Unit
+1190,2020-05-04,Hampton Terrace Care Centre,Burlington,101,0,0,0,Halton Regional Health Unit
+1191,2020-05-04,Harold and Grace Baker Centre,Toronto,120,8,13,13,City of Toronto Health Unit
+1192,2020-05-04,Hastings Manor Home for the Aged,Belleville,253,8,5,5,Hastings and Prince Edward Counties Health Unit
+1193,2020-05-04,Hawthorne Place Care Centre,North York,269,43,21,21,City of Toronto Health Unit
+1194,2020-05-04,Hellenic Home - Scarborough,Scarborough,128,34,9,9,City of Toronto Health Unit
+1195,2020-05-04,Henley Place,London,192,5,0,0,Middlesex-London Health Unit
+1196,2020-05-04,Heritage Green Nursing Home,Stoney Creek,167,5,5,5,City of Hamilton Health Unit
+1197,2020-05-04,Heron Terrace Long Term Care Community,Windsor,140,38,12,12,Windsor-Essex County Health Unit
+1198,2020-05-04,Hillsdale Terraces,Oshawa,200,29,13,13,Durham Regional Health Unit
+1199,2020-05-04,Hogarth Riverview Manor,Thunder Bay,543,0,0,0,
+1200,2020-05-04,Humber Valley Terrace,Etobicoke (Rexdale),158,6,0,0,City of Toronto Health Unit
+1201,2020-05-04,Ina Grafton Gage Home,Scarborough,128,35,15,15,City of Toronto Health Unit
+1202,2020-05-04,IOOF Seniors Home,Barrie,182,0,0,0,Simcoe Muskoka District Health Unit
+1203,2020-05-04,Isabel and Arthur Meighen Manor,Toronto,168,68,34,34,City of Toronto Health Unit
+1204,2020-05-04,Kensington Village,London,78,5,5,5,Middlesex-London Health Unit
+1205,2020-05-04,Kipling Acres,Etobicoke,337,36,11,11,City of Toronto Health Unit
+1206,2020-05-04,Kristus Darzs Latvian Home,Woodbridge,100,27,5,5,York Regional Health Unit
+1207,2020-05-04,Labdara Lithuanian Nursing Home,Etobicoke,90,0,0,0,City of Toronto Health Unit
+1208,2020-05-04,Lakeshore Lodge,Etobicoke,150,41,10,10,City of Toronto Health Unit
+1209,2020-05-04,Lanark Heights Long Term Care Centre,Kitchener,160,7,5,5,Waterloo Health Unit
+1210,2020-05-04,MacKenzie Place,Newmarket,93,47,8,8,York Regional Health Unit
+1211,2020-05-04,Madonna Care Community,Orleans,160,45,29,29,City of Ottawa Health Unit
+1212,2020-05-04,Main Street Terrace,Toronto,150,5,0,0,City of Toronto Health Unit
+1213,2020-05-04,Malton Village Long Term Care Centre,Mississauga,160,5,0,0,Peel Regional Health Unit
+1214,2020-05-04,Manoir Marochel,Ottawa,64,29,6,6,Ottawa Public Health
+1215,2020-05-04,Markhaven,Markham,96,9,17,17,York Regional Health Unit
+1216,2020-05-04,Maynard Nursing Home,Toronto,77,5,0,0,City of Toronto Health Unit
+1217,2020-05-04,McCall Centre Long Term Care Interim Unit,Etobicoke,21,0,0,0,City of Toronto Health Unit
+1218,2020-05-04,Meadow Park (London),London,126,5,5,5,Middlesex-London Health Unit
+1219,2020-05-04,Midland Gardens Care Community,Scarborough,299,0,5,5,City of Toronto Health Unit
+1220,2020-05-04,Moira Place Long-Term Care Home,Tweed,128,0,0,0,Hastings and Prince Edward Counties Health Unit
+1221,2020-05-04,Mon Sheong Home for the Aged,Toronto,105,23,29,29,City of Toronto Health Unit
+1222,2020-05-04,Montfort,Ottawa,128,54,19,19,Ottawa Public Health
+1223,2020-05-04,Northridge,Oakville,133,5,0,0,Halton Regional Health Unit
+1224,2020-05-04,Northview Nursing Home,Englehart,48,5,0,0,
+1225,2020-05-04,Norwood Nursing Home,Toronto,60,5,0,0,City of Toronto Health Unit
+1226,2020-05-04,Orchard Villa,Pickering,233,134,58,58,Durham Regional Health Unit
+1227,2020-05-04,Owen Hill Care Community,Barrie,57,7,0,0,Simcoe Muskoka District Health Unit
+1228,2020-05-04,Parkview Manor Health Care Centre,Chesley,34,7,5,5,
+1229,2020-05-04,Peel Manor,Brampton,177,5,5,5,Peel Regional Health Unit
+1230,2020-05-04,peopleCare A.R. Goudie Kitchener,Kitchener,80,5,5,5,Waterloo Health Unit
+1231,2020-05-04,Peter D. Clark Centre,Ottawa,216,0,0,0,Ottawa Public Health
+1232,2020-05-04,Pinecrest (Plantagenet),Plantagenet,60,8,0,0,Eastern Ontario Health Unit
+1233,2020-05-04,Pinecrest Nursing Home (Bobcaygeon),Bobcaygeon,65,33,29,29,"Haliburton, Kawartha, Pine Ridge District Health Unit"
+1234,2020-05-04,Pinehaven Nursing Home,Waterloo,84,0,0,0,Waterloo Health Unit
+1235,2020-05-04,Pioneer Manor,Sudbury,433,5,0,0,Sudbury and District Health Unit
+1236,2020-05-04,Post Inn Village,Oakville,228,5,0,0,Halton Regional Health Unit
+1237,2020-05-04,Providence Healthcare,Scarborough,288,10,5,5,City of Toronto Health Unit
+1238,2020-05-04,ReachView Village,Uxbridge,100,5,5,5,Durham Regional Health Unit
+1239,2020-05-04,Residence Saint-Louis,Ottawa,198,22,5,5,Ottawa Public Health
+1240,2020-05-04,River Glen Haven Nursing Home,Sutton West,119,21,0,0,
+1241,2020-05-04,Rockcliffe Care Community,Scarborough,204,0,0,0,City of Toronto Health Unit
+1242,2020-05-04,Royal Rose Place,Welland,96,18,15,15,Niagara Regional Area Health Unit
+1243,2020-05-04,Royal Terrace,Palmerston,67,5,0,0,Wellington-Dufferin-Guelph Health Unit
+1244,2020-05-04,Seven Oaks,Scarborough,249,54,38,38,City of Toronto Health Unit
+1245,2020-05-04,Shelburne Long Term Care Home,Shelburne,60,42,14,14,Wellington-Dufferin-Guelph Health Unit
+1246,2020-05-04,Shepherd Lodge,Toronto,252,0,0,0,City of Toronto Health Unit
+1247,2020-05-04,Sherbourne Place,Toronto,126,34,16,16,City of Toronto Health Unit
+1248,2020-05-04,Sheridan Villa,Mississauga,142,7,5,5,Peel Regional Health Unit
+1249,2020-05-04,Silverthorn Care Community,Mississauga,160,0,0,0,Peel Regional Health Unit
+1250,2020-05-04,Southlake Residential Care Village,Newmarket,224,0,0,0,York Regional Health Unit
+1251,2020-05-04,St. Clair O'Connor Community Nursing Home,East York,25,5,8,8,City of Toronto Health Unit
+1252,2020-05-04,St. Gabriel's Villa of Sudbury,Chelmsford,128,0,0,0,
+1253,2020-05-04,St. George Care Community,Toronto,238,0,0,0,City of Toronto Health Unit
+1254,2020-05-04,St. Joseph's at Fleming,Peterborough,200,5,0,0,Peterborough County-City Health Unit
+1255,2020-05-04,St. Joseph's Lifecare Centre,Brantford,205,0,0,0,Brant County Health Unit
+1256,2020-05-04,"St. Joseph's Villa, Dundas",Dundas,425,5,0,0,City of Hamilton Health Unit
+1257,2020-05-04,"St. Joseph's Villa, Sudbury",Sudbury,128,0,5,5,Sudbury and District Health Unit
+1258,2020-05-04,St. Patrick's Home,Ottawa,288,5,0,0,Ottawa Public Health
+1259,2020-05-04,Stirling Heights,Cambridge,110,0,0,0,
+1260,2020-05-04,Stoneridge Manor,Carleton Place,60,51,6,6,"Leeds, Grenville and Lanark District Health Unit"
+1261,2020-05-04,Strathcona Long Term Care,Mount Forest,87,0,0,0,Wellington-Dufferin-Guelph Health Unit
+1262,2020-05-04,Sumac Lodge,Sarnia,100,0,0,0,Lambton Health Unit
+1263,2020-05-04,Sun Parlor Home for Senior Citizens,Leamington,206,5,5,5,Windsor-Essex County Health Unit
+1264,2020-05-04,Tall Pines Long Term Care Centre,Brampton,160,5,0,0,Peel Regional Health Unit
+1265,2020-05-04,Telfer Place,Paris,45,5,0,0,Brant County Health Unit
+1266,2020-05-04,Temiskaming Lodge,Haileybury,83,5,0,0,
+1267,2020-05-04,The Henley House,St. Catharines,160,0,0,0,Niagara Regional Area Health Unit
+1268,2020-05-04,The Jewish Home for the Aged,North York,472,5,5,5,City of Toronto Health Unit
+1269,2020-05-04,The Kensington Gardens,Toronto,350,16,6,6,City of Toronto Health Unit
+1270,2020-05-04,The O'Neill Centre,Toronto,162,5,0,0,City of Toronto Health Unit
+1271,2020-05-04,The Perley and Rideau Veterans' Health Centre,Ottawa,450,15,5,5,Ottawa Public Health
+1272,2020-05-04,The Village at University Gates,Waterloo,192,0,0,0,Waterloo Health Unit
+1273,2020-05-04,The Village of Erin Meadows,Mississauga,180,43,9,9,Peel Regional Health Unit
+1274,2020-05-04,The Village of Humber Heights,Etobicoke,192,9,5,5,City of Toronto Health Unit
+1275,2020-05-04,The Village of Riverside Glen,Guelph,192,0,0,0,Wellington-Dufferin-Guelph Health Unit
+1276,2020-05-04,The Wexford,Scarborough,166,5,0,0,City of Toronto Health Unit
+1277,2020-05-04,The Woodlands of Sunset,Welland,121,5,0,0,Niagara Regional Area Health Unit
+1278,2020-05-04,Tony Stacey Centre for Veterans' Care,Toronto,100,5,0,0,City of Toronto Health Unit
+1279,2020-05-04,Trinity Village Care Centre,Kitchener,150,31,7,7,Waterloo Health Unit
+1280,2020-05-04,Ukrainian Canadian Care Centre,Etobicoke,152,25,5,5,City of Toronto Health Unit
+1281,2020-05-04,Valleyview Residence,North York,174,5,5,5,City of Toronto Health Unit
+1282,2020-05-04,Vermont Square,Toronto,130,5,0,0,City of Toronto Health Unit
+1283,2020-05-04,Villa Colombo Homes for the Aged,Toronto,391,5,0,0,City of Toronto Health Unit
+1284,2020-05-04,Villa Colombo Seniors Centre (Vaughan),Vaughan,160,28,7,7,York Regional Health Unit
+1285,2020-05-04,Villa Forum,Mississauga,160,38,9,9,Peel Regional Health Unit
+1286,2020-05-04,Villa Leonardo Gambin,Woodbridge,168,30,10,10,York Regional Health Unit
+1287,2020-05-04,Vision Nursing Home,Sarnia,146,5,0,0,Lambton Health Unit
+1288,2020-05-04,Wellesley Central Place,Toronto,150,36,16,16,City of Toronto Health Unit
+1289,2020-05-04,Wesburn Manor,Etobicoke,192,5,0,0,City of Toronto Health Unit
+1290,2020-05-04,West Park Long Term Care Centre,Toronto,200,56,17,17,City of Toronto Health Unit
+1291,2020-05-04,Weston Terrace Care Community,Toronto,224,42,13,13,City of Toronto Health Unit
+1292,2020-05-04,Woodland Villa,Long Sault,111,5,0,0,
+1293,2020-05-04,Woods Park Care Centre,Barrie,123,0,0,0,Simcoe Muskoka District Health Unit
+1294,2020-05-04,Yee Hong Centre - Scarborough McNicoll,Scarborough,155,5,0,0,City of Toronto Health Unit
